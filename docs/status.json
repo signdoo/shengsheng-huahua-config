@@ -1,0 +1,53 @@
+{
+  "generated_at": "2026-07-26T15:03:12.520Z",
+  "checks": [
+    {
+      "id": "jd_stack",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "jd_daily",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "didi_pack",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "didi_daily",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "taobao_daily",
+      "ok": false,
+      "source": "none",
+      "reason": "目标域名不在白名单"
+    },
+    {
+      "id": "taobao_stack",
+      "ok": false,
+      "source": "none",
+      "reason": "目标域名不在白名单"
+    },
+    {
+      "id": "meituan_stack",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "meituan_daily",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    }
+  ]
+}

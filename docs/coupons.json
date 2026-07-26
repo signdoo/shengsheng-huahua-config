@@ -1,0 +1,80 @@
+[
+  {
+    "id": "jd_stack",
+    "platform": "jd",
+    "platform_name": "京东外卖",
+    "title": "京东外卖叠加券",
+    "subtitle": "下单前先领综合优惠",
+    "tag": "叠加券",
+    "icon_text": "京",
+    "coupon_url": "https://m.jd.com/",
+    "fallback_url": null,
+    "sort": 10,
+    "enabled": true
+  },
+  {
+    "id": "jd_daily",
+    "platform": "jd",
+    "platform_name": "京东外卖",
+    "title": "京东外卖天天优惠",
+    "subtitle": "每日可查看可用优惠",
+    "tag": "天天优惠",
+    "icon_text": "京",
+    "coupon_url": "https://m.jd.com/",
+    "fallback_url": null,
+    "sort": 20,
+    "enabled": true
+  },
+  {
+    "id": "didi_pack",
+    "platform": "didi",
+    "platform_name": "滴滴出行",
+    "title": "滴滴出行大礼包",
+    "subtitle": "出门前看一眼可用礼包",
+    "tag": "出行礼包",
+    "icon_text": "滴",
+    "coupon_url": "https://www.didiglobal.com/",
+    "fallback_url": null,
+    "sort": 30,
+    "enabled": true
+  },
+  {
+    "id": "didi_daily",
+    "platform": "didi",
+    "platform_name": "滴滴出行",
+    "title": "滴滴每日优惠券",
+    "subtitle": "每日出行优惠入口",
+    "tag": "每日可领",
+    "icon_text": "滴",
+    "coupon_url": "https://www.didiglobal.com/",
+    "fallback_url": null,
+    "sort": 40,
+    "enabled": true
+  },
+  {
+    "id": "meituan_stack",
+    "platform": "meituan",
+    "platform_name": "美团",
+    "title": "美团叠加红包",
+    "subtitle": "外卖下单前先看红包",
+    "tag": "叠加红包",
+    "icon_text": "美",
+    "coupon_url": "https://union.meituan.com/",
+    "fallback_url": null,
+    "sort": 70,
+    "enabled": true
+  },
+  {
+    "id": "meituan_daily",
+    "platform": "meituan",
+    "platform_name": "美团",
+    "title": "美团天天红包",
+    "subtitle": "每日可领，打开查看",
+    "tag": "每日可领",
+    "icon_text": "美",
+    "coupon_url": "https://union.meituan.com/",
+    "fallback_url": null,
+    "sort": 80,
+    "enabled": true
+  }
+]
