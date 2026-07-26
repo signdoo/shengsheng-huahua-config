@@ -1,4 +1,5 @@
 name: 同步优惠券配置
+run-name: 同步飞书优惠券到静态配置
 
 on:
   workflow_dispatch:
