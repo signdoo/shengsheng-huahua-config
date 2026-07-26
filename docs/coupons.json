@@ -52,6 +52,32 @@
     "enabled": true
   },
   {
+    "id": "taobao_daily",
+    "platform": "taobao",
+    "platform_name": "淘宝闪购",
+    "title": "淘宝闪购每日红包",
+    "subtitle": "闪购红包每日入口",
+    "tag": "每日红包",
+    "icon_text": "淘",
+    "coupon_url": "https://main.m.taobao.com/",
+    "fallback_url": null,
+    "sort": 50,
+    "enabled": true
+  },
+  {
+    "id": "taobao_stack",
+    "platform": "taobao",
+    "platform_name": "淘宝闪购",
+    "title": "淘宝闪购叠加包",
+    "subtitle": "查看可叠加活动优惠",
+    "tag": "叠加包",
+    "icon_text": "淘",
+    "coupon_url": "https://main.m.taobao.com/",
+    "fallback_url": null,
+    "sort": 60,
+    "enabled": true
+  },
+  {
     "id": "meituan_stack",
     "platform": "meituan",
     "platform_name": "美团",

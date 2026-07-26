@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T15:03:12.520Z",
+  "generated_at": "2026-07-26T15:16:49.832Z",
   "checks": [
     {
       "id": "jd_stack",
@@ -27,15 +27,15 @@
     },
     {
       "id": "taobao_daily",
-      "ok": false,
-      "source": "none",
-      "reason": "目标域名不在白名单"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "taobao_stack",
-      "ok": false,
-      "source": "none",
-      "reason": "目标域名不在白名单"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "meituan_stack",
