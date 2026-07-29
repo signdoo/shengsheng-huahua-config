@@ -27,6 +27,8 @@ const DEFAULT_ALLOWED_HOSTS = [
   "tb.cn",
   "alimama.com",
   "ele.me",
+  "pinduoduo.com",
+  "yangkeduo.com",
   "didi.cn",
   "didiglobal.com"
 ];

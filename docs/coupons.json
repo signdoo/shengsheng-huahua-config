@@ -102,5 +102,31 @@
     "fallback_url": null,
     "sort": 80,
     "enabled": true
+  },
+  {
+    "id": "jd_mall",
+    "platform": "jd",
+    "platform_name": "京东商城",
+    "title": "京东全品类领券中心",
+    "subtitle": "购物下单前先领平台优惠券",
+    "tag": "全品类券",
+    "icon_text": "京",
+    "coupon_url": "https://u.jd.com/UgCYYfO",
+    "fallback_url": null,
+    "sort": 90,
+    "enabled": true
+  },
+  {
+    "id": "pdd_coupon",
+    "platform": "pdd",
+    "platform_name": "拼多多",
+    "title": "拼多多官方领券中心",
+    "subtitle": "领券后下单更优惠",
+    "tag": "领券中心",
+    "icon_text": "拼",
+    "coupon_url": "https://p.pinduoduo.com/l1vquU6g?sc=EFAC",
+    "fallback_url": null,
+    "sort": 100,
+    "enabled": true
   }
 ]

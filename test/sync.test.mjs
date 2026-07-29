@@ -33,6 +33,7 @@ test("读取飞书富文本和链接字段", () => {
 
 test("只允许白名单域名及其子域名", () => {
   assert.equal(isHostAllowed("https://union.meituan.com/a", ["meituan.com"]), true);
+  assert.equal(isHostAllowed("https://p.pinduoduo.com/a", ["pinduoduo.com"]), true);
   assert.equal(isHostAllowed("javascript:alert(1)", ["meituan.com"]), false);
   assert.equal(isHostAllowed("https://meituan.com.example.com", ["meituan.com"]), false);
 });
