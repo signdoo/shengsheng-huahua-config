@@ -1,42 +1,6 @@
 {
-  "generated_at": "2026-07-29T12:58:32.718Z",
+  "generated_at": "2026-07-29T13:12:10.239Z",
   "checks": [
-    {
-      "id": "jd_stack",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
-    },
-    {
-      "id": "jd_daily",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
-    },
-    {
-      "id": "didi_pack",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
-    },
-    {
-      "id": "didi_daily",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
-    },
-    {
-      "id": "taobao_daily",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
-    },
-    {
-      "id": "taobao_stack",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
-    },
     {
       "id": "meituan_stack",
       "ok": true,
@@ -147,6 +111,42 @@
     },
     {
       "id": "restaurant_coupon",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "jd_food_deal",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "jd_food_channel",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "jd_food_quality",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "jd_food_all",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "jd_groupbuy",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "express_discount",
       "ok": true,
       "source": "primary",
       "reason": "访问正常"
