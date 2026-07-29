@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T13:12:10.239Z",
+  "generated_at": "2026-07-29T15:23:52.723Z",
   "checks": [
     {
       "id": "meituan_stack",
@@ -140,13 +140,13 @@
       "reason": "访问正常"
     },
     {
-      "id": "jd_groupbuy",
+      "id": "express_discount",
       "ok": true,
       "source": "primary",
       "reason": "访问正常"
     },
     {
-      "id": "express_discount",
+      "id": "jd_groupbuy",
       "ok": true,
       "source": "primary",
       "reason": "访问正常"
