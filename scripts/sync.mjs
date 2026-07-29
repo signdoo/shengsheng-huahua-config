@@ -30,7 +30,10 @@ const DEFAULT_ALLOWED_HOSTS = [
   "pinduoduo.com",
   "yangkeduo.com",
   "didi.cn",
-  "didiglobal.com"
+  "didiglobal.com",
+  "kurl07.cn",
+  "yinghuasuan.com",
+  "youpiaopiao.cn"
 ];
 
 const EXPIRY_PATTERNS = [

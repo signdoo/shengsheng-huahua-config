@@ -128,5 +128,18 @@
     "fallback_url": null,
     "sort": 100,
     "enabled": true
+  },
+  {
+    "id": "movie_ticket",
+    "platform": "movie",
+    "platform_name": "影划算电影票",
+    "title": "电影票在线预订",
+    "subtitle": "支持全国连锁影院，最低19.9元购票",
+    "tag": "低价购票",
+    "icon_text": "影",
+    "coupon_url": "https://kurl07.cn/tH6d0r",
+    "fallback_url": null,
+    "sort": 110,
+    "enabled": true
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T21:31:27.416Z",
+  "generated_at": "2026-07-29T12:42:25.358Z",
   "checks": [
     {
       "id": "jd_stack",
@@ -45,6 +45,24 @@
     },
     {
       "id": "meituan_daily",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "jd_mall",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "pdd_coupon",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "movie_ticket",
       "ok": true,
       "source": "primary",
       "reason": "访问正常"
