@@ -32,8 +32,18 @@ const DEFAULT_ALLOWED_HOSTS = [
   "didi.cn",
   "didiglobal.com",
   "kurl07.cn",
+  "kurl04.cn",
+  "kurl05.cn",
+  "kurl06.cn",
+  "kurl08.cn",
+  "kzurl18.cn",
   "yinghuasuan.com",
-  "youpiaopiao.cn"
+  "youpiaopiao.cn",
+  "feizhu.com",
+  "jutuike.cn",
+  "qipiao.net",
+  "jfshou.cn",
+  "dtsoft.cn"
 ];
 
 const EXPIRY_PATTERNS = [
