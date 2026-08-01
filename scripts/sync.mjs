@@ -6,10 +6,9 @@ export const FIELDS = {
   id: "券ID",
   platform: "平台标识",
   platformName: "平台名称",
+  tab: "tab",
   title: "标题",
   subtitle: "副标题",
-  tag: "标签",
-  iconText: "图标文字",
   primaryURL: "主推广链接",
   fallbackURL: "备用链接",
   enabled: "启用",
@@ -17,6 +16,21 @@ export const FIELDS = {
   startsAt: "开始时间",
   endsAt: "结束时间"
 };
+
+function defaultTab(platform, platformName) {
+  return {
+    jd: "京东",
+    jd_food: "京东外卖",
+    express: "快递优惠",
+    didi: "滴滴",
+    taobao: "淘宝",
+    meituan: "美团",
+    pdd: "拼多多",
+    movie: "电影票",
+    travel: "游玩度假",
+    restaurant: "连锁餐饮"
+  }[platform] || platformName;
+}
 
 const DEFAULT_ALLOWED_HOSTS = [
   "jd.com",
@@ -87,14 +101,17 @@ function timestampValue(value) {
 
 export function recordToCoupon(record) {
   const fields = record.fields || {};
+  const platform = textValue(fields[FIELDS.platform]);
+  const platformName = textValue(fields[FIELDS.platformName]);
   return {
     id: textValue(fields[FIELDS.id]),
-    platform: textValue(fields[FIELDS.platform]),
-    platformName: textValue(fields[FIELDS.platformName]),
+    platform,
+    platformName,
+    tab: textValue(fields[FIELDS.tab]) || defaultTab(platform, platformName),
     title: textValue(fields[FIELDS.title]),
     subtitle: textValue(fields[FIELDS.subtitle]),
-    tag: textValue(fields[FIELDS.tag]),
-    iconText: textValue(fields[FIELDS.iconText]),
+    tag: "",
+    iconText: platformName.slice(0, 1),
     primaryURL: textValue(fields[FIELDS.primaryURL]),
     fallbackURL: textValue(fields[FIELDS.fallbackURL]),
     enabled: booleanValue(fields[FIELDS.enabled]),
@@ -234,6 +251,7 @@ export async function buildPublicCoupons(
       id: coupon.id,
       platform: coupon.platform,
       platform_name: coupon.platformName,
+      tab: coupon.tab,
       title: coupon.title,
       subtitle: coupon.subtitle,
       tag: coupon.tag,

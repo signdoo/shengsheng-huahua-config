@@ -13,10 +13,9 @@ function record(overrides = {}) {
       券ID: "meal",
       平台标识: "meituan",
       平台名称: "美团",
+      tab: "美团",
       标题: "每日红包",
       副标题: "下单前先领券",
-      标签: "每日可领",
-      图标文字: "美",
       主推广链接: { link: "https://union.meituan.com/a" },
       备用链接: "https://dpurl.cn/b",
       启用: true,
@@ -28,7 +27,9 @@ function record(overrides = {}) {
 
 test("读取飞书富文本和链接字段", () => {
   assert.equal(textValue([{ text: "省省" }, { text: "花花" }]), "省省花花");
-  assert.equal(recordToCoupon(record()).primaryURL, "https://union.meituan.com/a");
+  const coupon = recordToCoupon(record());
+  assert.equal(coupon.primaryURL, "https://union.meituan.com/a");
+  assert.equal(coupon.tab, "美团");
 });
 
 test("只允许白名单域名及其子域名", () => {
@@ -43,6 +44,7 @@ test("主链接失败时使用备用链接", async () => {
     url.includes("dpurl.cn") ? { ok: true, reason: "正常" } : { ok: false, reason: "失效" };
   const result = await buildPublicCoupons([record()], { probe });
   assert.equal(result.coupons[0].coupon_url, "https://dpurl.cn/b");
+  assert.equal(result.coupons[0].tab, "美团");
   assert.equal(result.checks[0].source, "fallback");
 });
 
