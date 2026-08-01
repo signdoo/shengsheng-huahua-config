@@ -168,6 +168,20 @@
     "enabled": true
   },
   {
+    "id": "restaurant_kfc",
+    "platform": "restaurant",
+    "platform_name": "肯德基",
+    "tab": "连锁餐饮",
+    "title": "优惠点餐",
+    "subtitle": "全国门店支持堂食、外带与送餐",
+    "tag": "",
+    "icon_text": "肯",
+    "coupon_url": "https://kzurl18.cn/tH614W",
+    "fallback_url": null,
+    "sort": 140,
+    "enabled": true
+  },
+  {
     "id": "restaurant_dapaidian",
     "platform": "restaurant",
     "platform_name": "大牌点餐",
