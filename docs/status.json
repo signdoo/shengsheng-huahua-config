@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T13:59:27.041Z",
+  "generated_at": "2026-08-01T15:20:26.422Z",
   "checks": [
     {
       "id": "meituan_stack",
@@ -45,9 +45,9 @@
     },
     {
       "id": "restaurant_kfc",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "restaurant_dapaidian",
