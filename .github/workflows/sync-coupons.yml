@@ -4,7 +4,7 @@ run-name: 同步飞书优惠券到静态配置
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 20 * * *"
+    - cron: "15 * * * *"
 
 permissions:
   contents: write
