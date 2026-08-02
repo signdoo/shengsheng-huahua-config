@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-02T06:46:31.404Z",
+  "generated_at": "2026-08-02T07:07:42.355Z",
   "checks": [
     {
-      "id": "meituan_stack",
+      "id": "meituan_food_festival",
       "ok": true,
       "source": "primary",
       "reason": "访问正常"
     },
     {
-      "id": "meituan_daily",
+      "id": "meituan_daily_benefits",
       "ok": true,
       "source": "primary",
       "reason": "访问正常"
