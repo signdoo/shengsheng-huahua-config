@@ -112,20 +112,6 @@
     "enabled": true
   },
   {
-    "id": "pdd_coupon",
-    "platform": "pdd",
-    "platform_name": "拼多多",
-    "tab": "拼多多",
-    "title": "官方领券中心",
-    "subtitle": "领券后下单更优惠",
-    "tag": "",
-    "icon_text": "拼",
-    "coupon_url": "https://p.pinduoduo.com/l1vquU6g?sc=EFAC",
-    "fallback_url": null,
-    "sort": 100,
-    "enabled": true
-  },
-  {
     "id": "movie_ticket",
     "platform": "movie",
     "platform_name": "影划算电影票",

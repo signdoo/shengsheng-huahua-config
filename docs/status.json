@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T07:07:42.355Z",
+  "generated_at": "2026-08-02T07:23:20.628Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -15,12 +15,6 @@
     },
     {
       "id": "jd_mall",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
-    },
-    {
-      "id": "pdd_coupon",
       "ok": true,
       "source": "primary",
       "reason": "访问正常"
