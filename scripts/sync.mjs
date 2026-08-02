@@ -20,7 +20,7 @@ export const FIELDS = {
 function defaultTab(platform, platformName) {
   return {
     jd: "京东",
-    jd_food: "京东外卖",
+    jd_food: "京东",
     express: "快递优惠",
     didi: "滴滴",
     taobao: "淘宝",
