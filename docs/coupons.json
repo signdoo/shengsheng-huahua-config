@@ -98,6 +98,48 @@
     "enabled": true
   },
   {
+    "id": "meituan_travel_coupon_pack",
+    "platform": "meituan",
+    "platform_name": "美团",
+    "tab": "美团",
+    "title": "大额出行券包",
+    "subtitle": "最高抽50元机票券，新人再领15元机票券",
+    "tag": "",
+    "icon_text": "美",
+    "coupon_url": "http://dpurl.cn/8HCaUnHz",
+    "fallback_url": null,
+    "sort": 81,
+    "enabled": true
+  },
+  {
+    "id": "meituan_all_things_deals",
+    "platform": "meituan",
+    "platform_name": "美团",
+    "tab": "美团",
+    "title": "万物享优惠",
+    "subtitle": "闪购非食万物天天享优惠",
+    "tag": "",
+    "icon_text": "美",
+    "coupon_url": "http://dpurl.cn/JK2PN3Wz",
+    "fallback_url": null,
+    "sort": 82,
+    "enabled": true
+  },
+  {
+    "id": "meituan_discount_flights",
+    "platform": "meituan",
+    "platform_name": "美团",
+    "tab": "美团",
+    "title": "特价机票",
+    "subtitle": "最高可领100元福利券包",
+    "tag": "",
+    "icon_text": "美",
+    "coupon_url": "http://dpurl.cn/D1I9frwz",
+    "fallback_url": null,
+    "sort": 83,
+    "enabled": true
+  },
+  {
     "id": "jd_mall",
     "platform": "jd",
     "platform_name": "京东商城",

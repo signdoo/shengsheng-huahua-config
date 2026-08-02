@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T07:30:08.123Z",
+  "generated_at": "2026-08-02T08:43:57.045Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -141,6 +141,24 @@
     },
     {
       "id": "jd_groupbuy",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "meituan_travel_coupon_pack",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "meituan_all_things_deals",
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
+    },
+    {
+      "id": "meituan_discount_flights",
       "ok": true,
       "source": "primary",
       "reason": "访问正常"
