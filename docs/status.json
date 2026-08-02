@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T03:58:43.626Z",
+  "generated_at": "2026-08-02T06:46:31.404Z",
   "checks": [
     {
       "id": "meituan_stack",
@@ -81,9 +81,9 @@
     },
     {
       "id": "restaurant_pizzahut",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "restaurant_pagoda",
