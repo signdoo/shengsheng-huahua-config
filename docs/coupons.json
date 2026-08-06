@@ -154,6 +154,20 @@
     "enabled": true
   },
   {
+    "id": "movie_ticket",
+    "platform": "movie",
+    "platform_name": "影划算电影票",
+    "tab": "电影票",
+    "title": "电影票在线预订",
+    "subtitle": "支持全国连锁影院，最低19.9元购票",
+    "tag": "",
+    "icon_text": "影",
+    "coupon_url": "https://kurl07.cn/tH6d0r",
+    "fallback_url": null,
+    "sort": 110,
+    "enabled": true
+  },
+  {
     "id": "fliggy_ticket",
     "platform": "travel",
     "platform_name": "飞猪",
@@ -249,6 +263,20 @@
     "coupon_url": "https://kurl05.cn/tH61IT",
     "fallback_url": null,
     "sort": 180,
+    "enabled": true
+  },
+  {
+    "id": "restaurant_starbucks",
+    "platform": "restaurant",
+    "platform_name": "星巴克",
+    "tab": "连锁餐饮",
+    "title": "优惠点餐",
+    "subtitle": "下单前先查看可用优惠",
+    "tag": "",
+    "icon_text": "星",
+    "coupon_url": "https://kurl08.cn/tH61IV",
+    "fallback_url": null,
+    "sort": 190,
     "enabled": true
   },
   {
