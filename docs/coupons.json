@@ -266,6 +266,34 @@
     "enabled": true
   },
   {
+    "id": "restaurant_starbucks",
+    "platform": "restaurant",
+    "platform_name": "星巴克",
+    "tab": "连锁餐饮",
+    "title": "优惠点餐",
+    "subtitle": "下单前先查看可用优惠",
+    "tag": "",
+    "icon_text": "星",
+    "coupon_url": "https://kurl08.cn/tH61IV",
+    "fallback_url": null,
+    "sort": 190,
+    "enabled": true
+  },
+  {
+    "id": "restaurant_pizzahut",
+    "platform": "restaurant",
+    "platform_name": "必胜客",
+    "tab": "连锁餐饮",
+    "title": "优惠点餐",
+    "subtitle": "下单前先查看可用优惠",
+    "tag": "",
+    "icon_text": "必",
+    "coupon_url": "https://kurl04.cn/tH61I5",
+    "fallback_url": null,
+    "sort": 200,
+    "enabled": true
+  },
+  {
     "id": "restaurant_pagoda",
     "platform": "restaurant",
     "platform_name": "百果园",

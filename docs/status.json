@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T17:08:47.020Z",
+  "generated_at": "2026-08-07T18:02:24.074Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -69,15 +69,15 @@
     },
     {
       "id": "restaurant_starbucks",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_pizzahut",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_pagoda",
