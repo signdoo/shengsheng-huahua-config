@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T19:45:53.923Z",
+  "generated_at": "2026-08-08T20:49:12.015Z",
   "checks": [
     {
       "id": "meituan_food_festival",
-      "ok": false,
-      "source": "none",
-      "reason": "目标域名不在白名单"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "meituan_daily_benefits",
@@ -51,9 +51,9 @@
     },
     {
       "id": "restaurant_luckin",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "restaurant_cotti",
@@ -63,9 +63,9 @@
     },
     {
       "id": "restaurant_nayuki",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "restaurant_starbucks",

@@ -70,6 +70,20 @@
     "enabled": true
   },
   {
+    "id": "meituan_food_festival",
+    "platform": "meituan",
+    "platform_name": "美团",
+    "tab": "美团",
+    "title": "美团外卖节",
+    "subtitle": "帮你吃更好",
+    "tag": "",
+    "icon_text": "美",
+    "coupon_url": "http://dpurl.cn/gDzUgKyz",
+    "fallback_url": null,
+    "sort": 70,
+    "enabled": true
+  },
+  {
     "id": "meituan_daily_benefits",
     "platform": "meituan",
     "platform_name": "美团",
@@ -210,20 +224,6 @@
     "enabled": true
   },
   {
-    "id": "restaurant_luckin",
-    "platform": "restaurant",
-    "platform_name": "瑞幸咖啡",
-    "tab": "连锁餐饮",
-    "title": "优惠点餐",
-    "subtitle": "下单前先查看可用优惠",
-    "tag": "",
-    "icon_text": "瑞",
-    "coupon_url": "https://kurl06.cn/tH61Fa",
-    "fallback_url": null,
-    "sort": 160,
-    "enabled": true
-  },
-  {
     "id": "restaurant_cotti",
     "platform": "restaurant",
     "platform_name": "库迪咖啡",
@@ -235,20 +235,6 @@
     "coupon_url": "https://kurl07.cn/tH61FK",
     "fallback_url": null,
     "sort": 170,
-    "enabled": true
-  },
-  {
-    "id": "restaurant_nayuki",
-    "platform": "restaurant",
-    "platform_name": "奈雪的茶",
-    "tab": "连锁餐饮",
-    "title": "优惠点餐",
-    "subtitle": "下单前先查看可用优惠",
-    "tag": "",
-    "icon_text": "奈",
-    "coupon_url": "https://kurl05.cn/tH61IT",
-    "fallback_url": null,
-    "sort": 180,
     "enabled": true
   },
   {
