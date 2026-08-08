@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:16:08.976Z",
+  "generated_at": "2026-08-08T09:01:31.960Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -93,9 +93,9 @@
     },
     {
       "id": "restaurant_burgerking",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "restaurant_wallace",

@@ -322,20 +322,6 @@
     "enabled": true
   },
   {
-    "id": "restaurant_burgerking",
-    "platform": "restaurant",
-    "platform_name": "汉堡王",
-    "tab": "连锁餐饮",
-    "title": "优惠点餐",
-    "subtitle": "下单前先查看可用优惠",
-    "tag": "",
-    "icon_text": "汉",
-    "coupon_url": "https://kzurl18.cn/tH61NA",
-    "fallback_url": null,
-    "sort": 230,
-    "enabled": true
-  },
-  {
     "id": "restaurant_wallace",
     "platform": "restaurant",
     "platform_name": "华莱士",
