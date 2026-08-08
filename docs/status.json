@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T05:57:46.111Z",
+  "generated_at": "2026-08-08T07:16:08.976Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -51,9 +51,9 @@
     },
     {
       "id": "restaurant_luckin",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_cotti",
@@ -81,9 +81,9 @@
     },
     {
       "id": "restaurant_pagoda",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_heytea",
