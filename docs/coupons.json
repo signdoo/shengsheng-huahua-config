@@ -70,20 +70,6 @@
     "enabled": true
   },
   {
-    "id": "meituan_food_festival",
-    "platform": "meituan",
-    "platform_name": "美团",
-    "tab": "美团",
-    "title": "美团外卖节",
-    "subtitle": "帮你吃更好",
-    "tag": "",
-    "icon_text": "美",
-    "coupon_url": "http://dpurl.cn/gDzUgKyz",
-    "fallback_url": null,
-    "sort": 70,
-    "enabled": true
-  },
-  {
     "id": "meituan_daily_benefits",
     "platform": "meituan",
     "platform_name": "美团",

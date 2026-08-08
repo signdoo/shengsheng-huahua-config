@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T18:58:54.103Z",
+  "generated_at": "2026-08-08T19:45:53.923Z",
   "checks": [
     {
       "id": "meituan_food_festival",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "目标域名不在白名单"
     },
     {
       "id": "meituan_daily_benefits",
