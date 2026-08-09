@@ -196,6 +196,20 @@
     "enabled": true
   },
   {
+    "id": "restaurant_kfc",
+    "platform": "restaurant",
+    "platform_name": "肯德基",
+    "tab": "连锁餐饮",
+    "title": "优惠点餐",
+    "subtitle": "全国门店支持堂食、外带与送餐",
+    "tag": "",
+    "icon_text": "肯",
+    "coupon_url": "https://kzurl18.cn/tH614W",
+    "fallback_url": null,
+    "sort": 140,
+    "enabled": true
+  },
+  {
     "id": "restaurant_dapaidian",
     "platform": "restaurant",
     "platform_name": "大牌点餐",
@@ -207,6 +221,20 @@
     "coupon_url": "https://kurl07.cn/tH61Fe",
     "fallback_url": null,
     "sort": 150,
+    "enabled": true
+  },
+  {
+    "id": "restaurant_luckin",
+    "platform": "restaurant",
+    "platform_name": "瑞幸咖啡",
+    "tab": "连锁餐饮",
+    "title": "优惠点餐",
+    "subtitle": "下单前先查看可用优惠",
+    "tag": "",
+    "icon_text": "瑞",
+    "coupon_url": "https://kurl06.cn/tH61Fa",
+    "fallback_url": null,
+    "sort": 160,
     "enabled": true
   },
   {
@@ -291,6 +319,20 @@
     "coupon_url": "https://kurl07.cn/tH61NG",
     "fallback_url": null,
     "sort": 220,
+    "enabled": true
+  },
+  {
+    "id": "restaurant_burgerking",
+    "platform": "restaurant",
+    "platform_name": "汉堡王",
+    "tab": "连锁餐饮",
+    "title": "优惠点餐",
+    "subtitle": "下单前先查看可用优惠",
+    "tag": "",
+    "icon_text": "汉",
+    "coupon_url": "https://kzurl18.cn/tH61NA",
+    "fallback_url": null,
+    "sort": 230,
     "enabled": true
   },
   {

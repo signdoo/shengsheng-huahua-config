@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T19:49:34.358Z",
+  "generated_at": "2026-08-09T20:52:23.123Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -39,9 +39,9 @@
     },
     {
       "id": "restaurant_kfc",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_dapaidian",
@@ -51,9 +51,9 @@
     },
     {
       "id": "restaurant_luckin",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_cotti",
@@ -93,9 +93,9 @@
     },
     {
       "id": "restaurant_burgerking",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_wallace",
