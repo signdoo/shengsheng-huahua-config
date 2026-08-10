@@ -362,19 +362,5 @@
     "fallback_url": null,
     "sort": 250,
     "enabled": true
-  },
-  {
-    "id": "express_discount",
-    "platform": "express",
-    "platform_name": "特价寄快递",
-    "tab": "快递优惠",
-    "title": "寄快递优惠",
-    "subtitle": "寄件享4折起，低至5元",
-    "tag": "",
-    "icon_text": "特",
-    "coupon_url": "https://kurl04.cn/tH6AnR",
-    "fallback_url": null,
-    "sort": 260,
-    "enabled": true
   }
 ]

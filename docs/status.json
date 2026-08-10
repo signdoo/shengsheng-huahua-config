@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T19:17:59.315Z",
+  "generated_at": "2026-08-10T21:03:20.875Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -135,9 +135,9 @@
     },
     {
       "id": "express_discount",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "jd_groupbuy",
