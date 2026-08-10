@@ -294,6 +294,20 @@
     "enabled": true
   },
   {
+    "id": "restaurant_pagoda",
+    "platform": "restaurant",
+    "platform_name": "百果园",
+    "tab": "连锁餐饮",
+    "title": "水果外送",
+    "subtitle": "水果下单前先查看可用优惠",
+    "tag": "",
+    "icon_text": "百",
+    "coupon_url": "https://kurl06.cn/tH61q4",
+    "fallback_url": null,
+    "sort": 210,
+    "enabled": true
+  },
+  {
     "id": "restaurant_heytea",
     "platform": "restaurant",
     "platform_name": "喜茶",
