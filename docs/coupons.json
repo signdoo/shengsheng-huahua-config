@@ -252,34 +252,6 @@
     "enabled": true
   },
   {
-    "id": "restaurant_nayuki",
-    "platform": "restaurant",
-    "platform_name": "奈雪的茶",
-    "tab": "连锁餐饮",
-    "title": "优惠点餐",
-    "subtitle": "下单前先查看可用优惠",
-    "tag": "",
-    "icon_text": "奈",
-    "coupon_url": "https://kurl05.cn/tH61IT",
-    "fallback_url": null,
-    "sort": 180,
-    "enabled": true
-  },
-  {
-    "id": "restaurant_starbucks",
-    "platform": "restaurant",
-    "platform_name": "星巴克",
-    "tab": "连锁餐饮",
-    "title": "优惠点餐",
-    "subtitle": "下单前先查看可用优惠",
-    "tag": "",
-    "icon_text": "星",
-    "coupon_url": "https://kurl08.cn/tH61IV",
-    "fallback_url": null,
-    "sort": 190,
-    "enabled": true
-  },
-  {
     "id": "restaurant_pizzahut",
     "platform": "restaurant",
     "platform_name": "必胜客",
