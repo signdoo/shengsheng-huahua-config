@@ -154,6 +154,20 @@
     "enabled": true
   },
   {
+    "id": "movie_ticket",
+    "platform": "movie",
+    "platform_name": "影划算电影票",
+    "tab": "电影票",
+    "title": "电影票在线预订",
+    "subtitle": "支持全国连锁影院，最低19.9元购票",
+    "tag": "",
+    "icon_text": "影",
+    "coupon_url": "https://kurl07.cn/tH6d0r",
+    "fallback_url": null,
+    "sort": 110,
+    "enabled": true
+  },
+  {
     "id": "fliggy_ticket",
     "platform": "travel",
     "platform_name": "飞猪",
@@ -347,6 +361,20 @@
     "coupon_url": "https://kurl07.cn/tH61Mw",
     "fallback_url": null,
     "sort": 250,
+    "enabled": true
+  },
+  {
+    "id": "express_discount",
+    "platform": "express",
+    "platform_name": "特价寄快递",
+    "tab": "快递优惠",
+    "title": "寄快递优惠",
+    "subtitle": "寄件享4折起，低至5元",
+    "tag": "",
+    "icon_text": "特",
+    "coupon_url": "https://kurl04.cn/tH6AnR",
+    "fallback_url": null,
+    "sort": 260,
     "enabled": true
   }
 ]
