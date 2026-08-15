@@ -154,6 +154,20 @@
     "enabled": true
   },
   {
+    "id": "movie_ticket",
+    "platform": "movie",
+    "platform_name": "影划算电影票",
+    "tab": "电影票",
+    "title": "电影票在线预订",
+    "subtitle": "支持全国连锁影院，最低19.9元购票",
+    "tag": "",
+    "icon_text": "影",
+    "coupon_url": "https://kurl07.cn/tH6d0r",
+    "fallback_url": null,
+    "sort": 110,
+    "enabled": true
+  },
+  {
     "id": "fliggy_ticket",
     "platform": "travel",
     "platform_name": "飞猪",
@@ -193,34 +207,6 @@
     "coupon_url": "https://kzurl18.cn/tH614W",
     "fallback_url": null,
     "sort": 140,
-    "enabled": true
-  },
-  {
-    "id": "restaurant_dapaidian",
-    "platform": "restaurant",
-    "platform_name": "大牌点餐",
-    "tab": "连锁餐饮",
-    "title": "餐饮优惠点餐",
-    "subtitle": "多个连锁餐饮品牌优惠入口",
-    "tag": "",
-    "icon_text": "大",
-    "coupon_url": "https://kurl07.cn/tH61Fe",
-    "fallback_url": null,
-    "sort": 150,
-    "enabled": true
-  },
-  {
-    "id": "restaurant_luckin",
-    "platform": "restaurant",
-    "platform_name": "瑞幸咖啡",
-    "tab": "连锁餐饮",
-    "title": "优惠点餐",
-    "subtitle": "下单前先查看可用优惠",
-    "tag": "",
-    "icon_text": "瑞",
-    "coupon_url": "https://kurl06.cn/tH61Fa",
-    "fallback_url": null,
-    "sort": 160,
     "enabled": true
   },
   {
