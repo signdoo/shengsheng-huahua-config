@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:49:23.911Z",
+  "generated_at": "2026-08-17T11:42:31.623Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -75,9 +75,9 @@
     },
     {
       "id": "restaurant_pizzahut",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "restaurant_pagoda",
@@ -135,9 +135,9 @@
     },
     {
       "id": "express_discount",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "jd_groupbuy",
