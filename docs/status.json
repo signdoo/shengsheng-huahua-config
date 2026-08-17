@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:43:10.342Z",
+  "generated_at": "2026-08-17T20:44:33.921Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -63,9 +63,9 @@
     },
     {
       "id": "restaurant_nayuki",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_starbucks",
