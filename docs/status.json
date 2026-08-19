@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T13:09:47.366Z",
+  "generated_at": "2026-08-19T13:58:25.760Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -21,9 +21,9 @@
     },
     {
       "id": "movie_ticket",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "fliggy_ticket",
@@ -39,9 +39,9 @@
     },
     {
       "id": "restaurant_kfc",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_dapaidian",
