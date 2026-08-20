@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:57:25.981Z",
+  "generated_at": "2026-08-20T09:50:49.162Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -51,9 +51,9 @@
     },
     {
       "id": "restaurant_luckin",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_cotti",
