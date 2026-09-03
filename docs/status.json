@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T19:51:00.552Z",
+  "generated_at": "2026-09-03T22:36:11.828Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -21,9 +21,9 @@
     },
     {
       "id": "movie_ticket",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "fliggy_ticket",
@@ -81,9 +81,9 @@
     },
     {
       "id": "restaurant_pagoda",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "restaurant_heytea",
