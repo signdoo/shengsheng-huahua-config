@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:28:19.990Z",
+  "generated_at": "2026-09-07T20:36:00.198Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -63,9 +63,9 @@
     },
     {
       "id": "restaurant_nayuki",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "restaurant_starbucks",
@@ -81,15 +81,15 @@
     },
     {
       "id": "restaurant_pagoda",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "restaurant_heytea",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "restaurant_burgerking",
@@ -99,9 +99,9 @@
     },
     {
       "id": "restaurant_wallace",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "restaurant_coupon",

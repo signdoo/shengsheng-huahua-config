@@ -252,20 +252,6 @@
     "enabled": true
   },
   {
-    "id": "restaurant_nayuki",
-    "platform": "restaurant",
-    "platform_name": "奈雪的茶",
-    "tab": "连锁餐饮",
-    "title": "优惠点餐",
-    "subtitle": "下单前先查看可用优惠",
-    "tag": "",
-    "icon_text": "奈",
-    "coupon_url": "https://kurl05.cn/tH61IT",
-    "fallback_url": null,
-    "sort": 180,
-    "enabled": true
-  },
-  {
     "id": "restaurant_starbucks",
     "platform": "restaurant",
     "platform_name": "星巴克",
@@ -294,34 +280,6 @@
     "enabled": true
   },
   {
-    "id": "restaurant_pagoda",
-    "platform": "restaurant",
-    "platform_name": "百果园",
-    "tab": "连锁餐饮",
-    "title": "水果外送",
-    "subtitle": "水果下单前先查看可用优惠",
-    "tag": "",
-    "icon_text": "百",
-    "coupon_url": "https://kurl06.cn/tH61q4",
-    "fallback_url": null,
-    "sort": 210,
-    "enabled": true
-  },
-  {
-    "id": "restaurant_heytea",
-    "platform": "restaurant",
-    "platform_name": "喜茶",
-    "tab": "连锁餐饮",
-    "title": "优惠点餐",
-    "subtitle": "下单前先查看可用优惠",
-    "tag": "",
-    "icon_text": "喜",
-    "coupon_url": "https://kurl07.cn/tH61NG",
-    "fallback_url": null,
-    "sort": 220,
-    "enabled": true
-  },
-  {
     "id": "restaurant_burgerking",
     "platform": "restaurant",
     "platform_name": "汉堡王",
@@ -333,20 +291,6 @@
     "coupon_url": "https://kzurl18.cn/tH61NA",
     "fallback_url": null,
     "sort": 230,
-    "enabled": true
-  },
-  {
-    "id": "restaurant_wallace",
-    "platform": "restaurant",
-    "platform_name": "华莱士",
-    "tab": "连锁餐饮",
-    "title": "优惠点餐",
-    "subtitle": "下单前先查看可用优惠",
-    "tag": "",
-    "icon_text": "华",
-    "coupon_url": "https://kurl06.cn/tH61Nf",
-    "fallback_url": null,
-    "sort": 240,
     "enabled": true
   },
   {
