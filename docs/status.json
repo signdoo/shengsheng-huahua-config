@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T23:07:04.032Z",
+  "generated_at": "2026-09-20T01:11:19.550Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -27,9 +27,9 @@
     },
     {
       "id": "fliggy_ticket",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "fliggy_flight",
@@ -75,9 +75,9 @@
     },
     {
       "id": "restaurant_pizzahut",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "restaurant_pagoda",
@@ -135,9 +135,9 @@
     },
     {
       "id": "express_discount",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "jd_groupbuy",
