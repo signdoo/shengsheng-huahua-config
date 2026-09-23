@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T17:01:25.934Z",
+  "generated_at": "2026-09-23T20:22:59.894Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -21,15 +21,15 @@
     },
     {
       "id": "movie_ticket",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "fliggy_ticket",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "fliggy_flight",
@@ -39,21 +39,21 @@
     },
     {
       "id": "restaurant_kfc",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_dapaidian",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_luckin",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_cotti",
@@ -63,9 +63,9 @@
     },
     {
       "id": "restaurant_nayuki",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_starbucks",
