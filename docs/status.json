@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T01:28:44.566Z",
+  "generated_at": "2026-09-27T08:12:25.375Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -21,9 +21,9 @@
     },
     {
       "id": "movie_ticket",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "fliggy_ticket",
@@ -45,9 +45,9 @@
     },
     {
       "id": "restaurant_dapaidian",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "restaurant_luckin",
@@ -75,9 +75,9 @@
     },
     {
       "id": "restaurant_pizzahut",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "restaurant_pagoda",
