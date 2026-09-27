@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:00:57.210Z",
+  "generated_at": "2026-09-27T18:25:17.429Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -27,9 +27,9 @@
     },
     {
       "id": "fliggy_ticket",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "fliggy_flight",
@@ -93,9 +93,9 @@
     },
     {
       "id": "restaurant_burgerking",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_wallace",
