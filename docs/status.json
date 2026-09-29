@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T22:01:58.312Z",
+  "generated_at": "2026-09-29T01:58:59.689Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -21,9 +21,9 @@
     },
     {
       "id": "movie_ticket",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "fliggy_ticket",
@@ -87,9 +87,9 @@
     },
     {
       "id": "restaurant_heytea",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "restaurant_burgerking",
@@ -135,9 +135,9 @@
     },
     {
       "id": "express_discount",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "jd_groupbuy",
