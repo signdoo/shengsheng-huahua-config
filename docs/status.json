@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T05:39:23.495Z",
+  "generated_at": "2026-10-02T12:37:10.388Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -21,15 +21,15 @@
     },
     {
       "id": "movie_ticket",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
-    },
-    {
-      "id": "fliggy_ticket",
       "ok": true,
       "source": "primary",
       "reason": "访问正常"
+    },
+    {
+      "id": "fliggy_ticket",
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "fliggy_flight",
@@ -63,9 +63,9 @@
     },
     {
       "id": "restaurant_nayuki",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_starbucks",
@@ -93,9 +93,9 @@
     },
     {
       "id": "restaurant_burgerking",
-      "ok": true,
-      "source": "primary",
-      "reason": "访问正常"
+      "ok": false,
+      "source": "none",
+      "reason": "访问超时"
     },
     {
       "id": "restaurant_wallace",
@@ -135,9 +135,9 @@
     },
     {
       "id": "express_discount",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "jd_groupbuy",
