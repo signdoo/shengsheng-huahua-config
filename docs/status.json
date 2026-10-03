@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T22:58:30.709Z",
+  "generated_at": "2026-10-03T01:58:35.922Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -39,9 +39,9 @@
     },
     {
       "id": "restaurant_kfc",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "restaurant_dapaidian",
