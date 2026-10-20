@@ -210,20 +210,6 @@
     "enabled": true
   },
   {
-    "id": "restaurant_dapaidian",
-    "platform": "restaurant",
-    "platform_name": "大牌点餐",
-    "tab": "连锁餐饮",
-    "title": "餐饮优惠点餐",
-    "subtitle": "多个连锁餐饮品牌优惠入口",
-    "tag": "",
-    "icon_text": "大",
-    "coupon_url": "https://kurl07.cn/tH61Fe",
-    "fallback_url": null,
-    "sort": 150,
-    "enabled": true
-  },
-  {
     "id": "restaurant_luckin",
     "platform": "restaurant",
     "platform_name": "瑞幸咖啡",
