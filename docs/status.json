@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T07:18:32.762Z",
+  "generated_at": "2026-10-24T12:41:21.157Z",
   "checks": [
     {
       "id": "meituan_food_festival",
@@ -21,9 +21,9 @@
     },
     {
       "id": "movie_ticket",
-      "ok": false,
-      "source": "none",
-      "reason": "访问超时"
+      "ok": true,
+      "source": "primary",
+      "reason": "访问正常"
     },
     {
       "id": "fliggy_ticket",
